@@ -1,0 +1,11 @@
+.trending{
+    width: 80%;
+    margin: auto;
+}
+
+.trendingImg{
+    width: 220px;
+    height: 120px;
+    padding: 10px;
+    border-radius: 15px;
+}
